@@ -36,10 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Anas-Nasir/Anas-Nasir/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Contact:<br>- Linkedln : https://www.linkedin.com/in/anasnaasir/<br>- Email : Anasnaasir1@gmail.com</p>
 
 ###
