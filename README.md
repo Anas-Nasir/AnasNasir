@@ -1,10 +1,45 @@
-- 👋 Hi, I’m @AnasAnalog
-- 👀 I’m interested in ...Photorgraphy,Videography,Editing,Nature
-- 🌱 I’m currently learning ...Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="left">👋 Hello, I'm Anas Nasir</h1>
 
-<!---
-AnasAnalog/AnasAnalog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">I am a passionate Software engineering student with a strong enthusiasm for problem-solving and creating innovative solutions.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">- Attaining my Bachelors in Software Engineering from Western Governors University.<br>- I have a passion for building software that meets the needs of both users and businesses at scale.<br>- I’m constantly looking for opportunities to learn and grow, always striving to improve my skills and knowledge</p>
+
+###
+
+<h2 align="left">Tech stack:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Anas-Nasir/Anas-Nasir/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Contact:<br>- Linkedln : https://www.linkedin.com/in/anasnaasir/<br>- Email : Anasnaasir1@gmail.com</p>
+
+###
